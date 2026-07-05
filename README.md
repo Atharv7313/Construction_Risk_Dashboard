@@ -1,7 +1,7 @@
 AI-Powered Construction Risk Monitoring Dashboard
 This Streamlit-based web application uses AI and machine learning to predict and monitor risk levels in civil engineering and construction projects. It provides real-time insights, supply chain risk scoring, mitigation suggestions, and resource efficiency analysis to support better project execution.
 
-🔗 Live Demo: https://constructionriskdashboard-fhfthsx5etlr2womdmdguw.streamlit.app/
+🔗 Live Demo: https://constructionriskdashboard-iwfxz8uzi8udvz9zuxajlk.streamlit.app/
 
 Features
 Predicts construction project risk levels: Low, Medium, or High
